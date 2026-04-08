@@ -24,18 +24,6 @@ This course covered core Java concepts including:
 - Exception Handling
 - Basic Problem Solving
 
----
-
-## 📎 Certificate
-
-You can view my certificate below:
-
-![Certificate](certificate.jpg)
-
-> 📌 Note: Certificate issued by Infosys Springboard.
-
----
-
 ## 🚀 Why this matters
 
 This certification strengthens my foundation in Java programming and helps me build real-world applications and problem-solving skills.
